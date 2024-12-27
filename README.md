@@ -1,1 +1,3 @@
 # Patika-ICP
+
+#Merhaba, ben Emre. ODTÜ İktisat son sınıf öğrencisiyim ve Ocak ayında mezun oluyorum. Aktif olarak R Studio ve SQL kullanıyorum. Web3 dünyasının geleceğine olan inancım ve bu alanda çalışma isteğim beni bu ilana yönlendirdi. Üniversite yıllarım boyunca birçok toplulukta aktif rol aldım, şu anda ODTÜ Su Altı Topluluğu’nda gönüllü tüplü dalış eğitmenliği yapıyorum. Ayrıca, turizm bölgelerinde bilet satışı ve pazarda kıyafet satışı gibi işleri deneyimleyerek insanlarla etkili iletişim kurma becerisi kazandım. Yusuf Bey’in eğitimde bahsettiği ‘patikada destek ve doğru yönlendirmelerle hızlı öğrenme’ fikri beni çok etkiledi. Bu süreç sonunda ekibinize katılabilmeyi umuyorum.
